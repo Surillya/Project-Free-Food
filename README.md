@@ -26,7 +26,7 @@ All these are well said not done in any ways, this project is in early trial pha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Project_Free_Food.git
+   git clone https://github.com/Thrilltech/Project-Free-Food.git
    ```
 
 2. Navigate to the project directory:
