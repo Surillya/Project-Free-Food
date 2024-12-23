@@ -31,7 +31,7 @@ All these are well said not done in any ways, this project is in early trial pha
 
 2. Navigate to the project directory:
    ```bash
-   cd Project_Free_Food
+   cd Project-Free-Food
    ```
 
 3. Build and run the project:
@@ -41,7 +41,7 @@ All these are well said not done in any ways, this project is in early trial pha
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](LICENSE).
+This project is licensed under the [Apache 2.0 License](LICENSE.txt).
 
 ## Acknowledgments
 
