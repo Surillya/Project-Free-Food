@@ -1,6 +1,7 @@
 # Project Free Food
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![NoobLel](https://img.shields.io/badge/Knowledge-Noob-red.svg)
 
 Project Free Food is my C# attempt at making a console game, which I haven't yet determined the direction of. This project aims to be an ongoing learning experience in my development.
 
