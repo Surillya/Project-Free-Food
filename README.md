@@ -27,7 +27,7 @@ All these are well said not done in any ways, this project is in early trial pha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Thrilltech/Project-Free-Food.git
+   git clone https://github.com/Surillya/Project-Free-Food.git
    ```
 
 2. Navigate to the project directory:
@@ -43,6 +43,23 @@ All these are well said not done in any ways, this project is in early trial pha
 ## License
 
 This project is licensed under the [Apache 2.0 License](LICENSE.txt).
+
+## Contributing
+
+Feel free to contribute meaningful commits to this repository. I'd love your help, but I keep myself the right to remove commits that don't fit the purpose I'm trying to achieve.
+
+## ToDo
+
+- Fix randomness for encounters
+
+- Clean console on start
+
+- Add dynamic encounter types
+
+- Procedurally generate story-actions based on actions and encounters
+
+- Add two-word commands to let players interact with the game.
+
 
 ## Acknowledgments
 
