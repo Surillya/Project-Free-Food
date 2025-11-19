@@ -1,3 +1,5 @@
+> This is now archived, as I don't use Winblows anymore (no .NET)
+
 # Project Free Food
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
